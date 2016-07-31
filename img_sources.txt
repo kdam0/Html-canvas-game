@@ -1,0 +1,8 @@
+background:
+	http://i.giphy.com/l0NwBOjsEILNKbxCw.gif
+blue blackhole:
+	http://icons.iconarchive.com/icons/zairaam/bumpy-planets/256/blackhole-icon.png
+black blackhole:
+	https://clipartion.com/wp-content/uploads/2015/11/smiley-face-black-backgrounds-wallpaper-cave-830x830.png
+purple blackhole:
+	http://forums.terraria.org/data/attachments/92/92297-0e67bc0609ff69864435b6de75e634d6.jpg
