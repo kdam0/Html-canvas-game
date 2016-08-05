@@ -1,14 +1,4 @@
-A2
+This is a simple HTML5 canvas game.
 
-NAMES:
-
->WAREF HAQUE
->PRADYUMN DAMANI
-
-CDF_IDS:
->C5HAQUEW
->C4DAMANI
-
-EMAILS:
->WAREF.H@GMAIL.COM
->KUMAR.DAMANI@MAIL.UTORONTO.CA
+Click on the blackholes as they appear to score points.
+There are two levels 
